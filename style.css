@@ -23,4 +23,20 @@
     
     nav ul li {
         display: inline-block;
+        margin-right: 25px;
+    }
+    
+    a {
+        text-decoration: none;
+        color: #555;
+    }
+    
+    p {
+        text-decoration: none;
+        color: #555;
+    }
+    
+    container {
+        max-width: 1300px;
+        margin: auto;
     }
