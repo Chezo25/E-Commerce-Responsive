@@ -130,3 +130,9 @@
     .col-4 img {
         width: 100%;
     }
+    
+    .title {
+        text-align: center;
+        margin: 0 auto;
+        position: relative;
+    }
