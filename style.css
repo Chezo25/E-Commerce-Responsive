@@ -170,6 +170,7 @@
     .col-4:hover {
         transform: translateX(-5px);
     }
+    /*-----offer-----*/
     
     .offer {
         background: radial-gradient(#fff, #ffd6d6);
@@ -179,4 +180,8 @@
     
     .col-2 .offer-img {
         padding: 80px;
+    }
+    
+    small {
+        color: #ff55;
     }
