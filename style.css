@@ -305,4 +305,12 @@
     
     .menu-icon {
         width: 30px;
+        margin-left: 20px;
+    }
+    /*-------media query responsive section----*/
+    
+    @media only screen and (max-width: 800px) {
+        nav ul {
+            position: absolute;
+        }
     }
