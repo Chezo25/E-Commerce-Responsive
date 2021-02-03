@@ -319,5 +319,7 @@
         }
         nav ul li {
             display: block;
+            margin-right: 50px;
+            margin-top: 110px;
         }
     }
